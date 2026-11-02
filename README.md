@@ -1,4 +1,4 @@
-# Antonio Rivero
+# Antonio Javier Rivero Moreno
 
 **DevOps Specialist · Sistemas · Infraestructura · Cloud · Smart Metering**
 
@@ -71,3 +71,10 @@ Infraestructura, DevOps, cloud, automatización, tecnologías open source, homel
 ---
 
 *Aprender haciendo, automatizar lo repetible y compartir lo que funciona.*
+
+
+## Portfolio web
+
+La web utiliza una identidad visual inspirada en observatorios y cartografía espacial: fondo azul noche, estrellas discretas, geometrías orbitales y acentos turquesa. Está construida con HTML y CSS, sin dependencias externas.
+
+Web: https://antonio-moreno.github.io/
